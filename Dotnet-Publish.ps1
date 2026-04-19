@@ -5,7 +5,6 @@ $OutputFolder = ".\publish"
 $Runtime = "win-x64"
 $Configuration = "Release"
 
-
 Write-Host "=== .NET Publish ==="
 
 # Clean output folder
